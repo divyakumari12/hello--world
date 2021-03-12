@@ -1,0 +1,40 @@
+
+body{
+            background-image:  url("wallpaper.jpg");
+            background-image:transparent;
+            border-style:double;
+            border-color:yellow;
+            border-width:10px;
+            padding:16px 20px 24px;
+}
+ 
+nav {
+    background-color: #C0C0C0;
+    overflow: hidden;
+}
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+ h1 {
+    text-align: center;
+    font-size: 40px;
+    color: 00008B
+    padding: 40px;
+    background-color: rgb(17, 124, 143);}
+
+h2{ 
+          color:#8A2BE2;
+          text-decoration:underline;
+          line-height:2;}
+body {
+    margin: 0px;
+    
+}
+footer {
+    background-color: #808080;
+    overflow: hidden;
+}
